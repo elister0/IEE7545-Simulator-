@@ -1,7 +1,7 @@
 # IEEE 754 Simulator
 
 **Author:** Emily Lister  
-**Course:** CS / Computer Science Portfolio Project  
+**Course:** Computer Systems
 **Language:** Java  
 
 ---
