@@ -44,3 +44,9 @@ It will then output the IEEE 754 binary representations of both operands and the
 - Supports addition and multiplication operations
 - Illustrates binary mantissa, exponent, and sign bits
 - Fully implemented in Java for educational purposes
+
+## Notes
+- Input must be valid decimal numbers
+- Only supports 32-bit floats
+- Manual binary conversion is performed for demonstration
+- Overflow is not handled
